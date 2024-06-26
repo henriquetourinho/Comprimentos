@@ -4,9 +4,9 @@
 BOT_TOKEN="SEU_BOT_TOKEN_AQUI"
 
 # IDs dos chats onde as mensagens serão enviadas
-CHAT_ID_1="userid"
-CHAT_ID_2="userid"
-CHAT_ID_3="userid"
+CHAT_ID_1="CHAT_ID_1"
+CHAT_ID_2="CHAT_ID_2"
+CHAT_ID_3="CHAT_ID_3"
 
 # Mensagens de Bom Dia para 30 dias diferentes
 MESSAGE_01="Bom dia! Tenha um ótimo dia!"
